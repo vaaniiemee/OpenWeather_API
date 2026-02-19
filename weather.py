@@ -1,6 +1,6 @@
 import os
 import requests
-#72997TY
+#72997
 key = os.environ.get('API_KEY')
 
 cities = ["Cairo", "Nairobi", "Lagos", "Pretoria", "Addis Ababa", "Rabat", "Accra", "Algiers", "Luanda", "Dakar"]
